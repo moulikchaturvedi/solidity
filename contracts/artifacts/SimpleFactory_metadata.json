@@ -33,11 +33,19 @@
 	},
 	"sources": {
 		"contracts/SimpleFactory.sol": {
-			"keccak256": "0xe278d73be7b563f26f70b278d635e882f74da26b6b4f5461963aab5447207322",
+			"keccak256": "0x56df0f1df26ffdbdaadbf1428292c290b2415f39615d9ce9eaaac2ffdd86daf2",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://a7837631d12fb1670d17f76ed4baf748a037fc18706c7262d9663269484c873c",
-				"dweb:/ipfs/QmXZzfzBUHwX1uLpsRU4tiVG4HmENkGgNUJfKkss3i74HV"
+				"bzz-raw://23d1052734605aa2c60d08f490517ee270223e349e00060ebb47778523ae81a9",
+				"dweb:/ipfs/QmaZoiKouPMEqySG8pDZJ7puj75fHwpqYLs1Vh1HV3HLPL"
+			]
+		},
+		"contracts/SimpleStorage.sol": {
+			"keccak256": "0x5b19e4b5a1bcbfcc04d15b34775f0b51831997ed13b69e5fc53065c3492e5c1b",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://d74f135d07b4754ebe31412ca2b15d5bb6ab412489609d07fbc8ddfd721b9bd1",
+				"dweb:/ipfs/QmWgHxgx3fx324Q5Y5XpjauBsp37rr7FpkvYKesbgBP4Ug"
 			]
 		}
 	},
